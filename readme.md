@@ -32,8 +32,7 @@ https://git-scm.com
 🏃 Run locally
 Would like to run this project locally? Open terminal and follow these steps:
 
-Clone the repo
-git clone https://github.com/front-end-by-rimantas/54-grupe-astronautas.git
+
 Install NPM packages
 npm i
 or
